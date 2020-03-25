@@ -29,7 +29,7 @@ If you are interest to become part of the core committee, please open an issue. 
 
 Contact
 =======
-To stay updated, you can sign up for the e-group: hep-statistics-standard@cern.ch
+To stay updated, you can sign up for the e-group: hep-statistics-serialization-standard
 
 Involved projects
 ======================
