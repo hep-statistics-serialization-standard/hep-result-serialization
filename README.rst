@@ -29,7 +29,7 @@ If you are interest to become part of the core committee, please open an issue. 
 
 Contact
 =======
-To stay updated, you can sign up for the e-group: hep-statistics-serialization-standard
+To stay updated, you can sign up for the e-group: hep-statistics-serialization-standard@cern.ch
 
 Involved projects
 ======================
@@ -40,6 +40,12 @@ The library provied modeling and hypothesis tests of different kinds.
 
 `hepstats on Github <https://github.com/scikit-hep/hepstats>`_
 
+RooStats
+--------
+
+Statistical tools built on top of RooFit
+
+`RooFit <https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome>`_
 
 Committee
 =========
